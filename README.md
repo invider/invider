@@ -1,16 +1,10 @@
 ### Hi, I'm Igor! 👋
 
-I turn ideas into fun and playable code.
-And pixelate reality by mixing code, vibes, and pixels.
+I pixelate reality by mixing code, vibes, and pixels.
 
 Currently focused on [Collider.JAM](http://collider.land) -
-a hand-crafted JavaScript game framework optimized for game jamming, prototyping,
-rapid game development and creative coding among other things.
-I'm looking for likeminded collaborators, who prefer light-weight text-based web-first tools over an IDE-style development.
-
-⚡ I love UNIX!
-
-⚡ I'm coding for as long, as I can remember and working in software development since the year 2000.
+a JavaScript game framework optimized for game jamming, prototyping, creative coding, and beyond.
+I'm looking for collaborators, who want to simplify the game development toolchain.
 
 ⚡ Besides GitHub, you can check my activity on
 [blog](http://ikhotin.com/posts/),
