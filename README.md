@@ -2,9 +2,9 @@
 
 I pixelate reality by mixing code, vibes, and pixels.
 
-Currently focused on [Collider.JAM](http://collider.land) -
+I'm currently focused on [Collider.JAM](http://collider.land) -
 a JavaScript game framework optimized for game jamming, prototyping, creative coding, and beyond.
-I'm looking for collaborators, who want to simplify the game development toolchain.
+I'm looking for collaborators, who want to simplify development toolchains.
 
 ⚡ Besides GitHub, you can check my activity on
 [blog](http://ikhotin.com/posts/),
@@ -25,6 +25,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
